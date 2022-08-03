@@ -64,6 +64,42 @@
     .footer-bottom-side4 {
         width: 290px;
     }
+
+    nav {
+        margin: 0 100px;
+    }
+
+    #banner {
+        padding: 100px 100px;
+    }
+
+    #hackathon-comp {
+        padding: 50px 100px;
+    }
+
+    #courses {
+        padding: 100px 100px;
+    }
+
+    #live-program {
+        padding: 100px 100px;
+    }
+
+    #mentors {
+        margin: 100px 100px;
+    }
+
+    #hall-of-frame {
+        padding: 100px 100px 150px 100px;
+    }
+
+    #partner-its {
+        padding: 50px 100px;
+    }
+
+    footer {
+        padding: 50px 100px;
+    }
 }
 
 @media screen and (max-width: 1421px) {
