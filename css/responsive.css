@@ -62,11 +62,15 @@
     }
 
     .footer-bottom-side4 {
-        width: 290px;
+        width: 430px;
     }
 
     nav {
-        margin: 0 100px;
+        margin: 20px 100px 0 100px;
+    }
+
+    .nav-search input {
+        width: 700px;
     }
 
     #banner {
@@ -100,6 +104,10 @@
     footer {
         padding: 50px 100px;
     }
+
+    .live-programs-card {
+        width: 350px;
+    }
 }
 
 @media screen and (max-width: 1421px) {
@@ -115,5 +123,9 @@
         font-size: 17px;
         width: 100%;
         margin-bottom: 50px;
+    }
+
+    .footer-bottom-side4 {
+        width: 290px;
     }
 }
