@@ -40,6 +40,10 @@
 }
 
 @media screen and (max-width: 1561px) {
+    .banner-left span {
+        font-size: 22px;
+    }
+
     .banner-left h1 {
         font-size: 55px;
     }
