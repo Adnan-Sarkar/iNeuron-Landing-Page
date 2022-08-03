@@ -1,0 +1,83 @@
+@media screen and (max-width: 1828px) {
+    .banner-right {
+        width: 1150px;
+    }
+}
+
+@media screen and (max-width: 1792px) {
+    .banner-right {
+        width: 1050px;
+    }
+}
+
+@media screen and (max-width: 1720px) {
+    .banner-left h1 {
+        font-size: 65px;
+        margin-bottom: 10px;
+    }
+
+    .hackathon-comp-logo img {
+        padding: 0 10px;
+    }
+}
+
+@media screen and (max-width: 1680px) {
+    .banner-left p {
+        font-size: 18px;
+        width: 80%;
+        margin-bottom: 50px;
+    }
+}
+
+@media screen and (max-width: 1654px) {
+    .banner-left h1 {
+        font-size: 60px;
+    }
+
+    .banner-right {
+        width: 1000px;
+    }
+}
+
+@media screen and (max-width: 1561px) {
+    .banner-left h1 {
+        font-size: 55px;
+    }
+
+    .banner-left p {
+        font-size: 18px;
+        width: 90%;
+        margin-bottom: 50px;
+    }
+
+    .section-tittle h2 {
+        position: relative;
+        font-size: 50px;
+        z-index: 1111;
+    }
+
+    .section-tittle h2::after {
+        width: 875px;
+        font-size: 65px;
+    }
+
+    .footer-bottom-side4 {
+        width: 290px;
+    }
+}
+
+@media screen and (max-width: 1421px) {
+    .banner-left span {
+        font-size: 22px;
+    }
+
+    .banner-left h1 {
+        font-size: 45px;
+    }
+
+    .banner-left p {
+        font-size: 17px;
+        width: 100%;
+        margin-bottom: 50px;
+    }
+}
