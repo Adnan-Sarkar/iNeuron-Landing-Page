@@ -11,9 +11,9 @@ I'm `Adnan Sarkar`. This is Hackathon project for my [Full Stack Javascript](htt
 ## 🖥 Preview
 `note:` please make sure the preview screen is `1920 x 1080`
 
-[Live Preview]()
+[Live Preview](https://ineuron-landing-page-by-adnan.netlify.app/#)
 
-![]()
+![](Affordable%20Complement%20Courses%20iNeuron.png)
 
 ##  What I have learned in this project?
 - Flex-box for elements alignment.
